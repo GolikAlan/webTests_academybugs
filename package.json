@@ -1,0 +1,18 @@
+{
+  "name": "testsautomate_web_academybugs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  },
+  "dependencies": {
+    "allure-js-commons": "^3.0.4",
+    "allure-playwright": "^3.0.4"
+  }
+}
